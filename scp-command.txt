@@ -1,0 +1,6 @@
+scp -r ml3gpu@10.2.0.29:/home/ml3gpu/spar_pen/diff-threshold /home/user/Desktop/sparpen
+
+scp -> command
+-r -> recursive 
+ml3gpu@10.2.0.29:/home/ml3gpu/spar_pen/diff-threshold -> server-username and path of file/dir
+/home/user/Desktop/sparpen -> local dir path
